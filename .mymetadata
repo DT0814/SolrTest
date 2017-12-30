@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="CourseSolrTest"
+  id="myeclipse.1514619703481"
+  context-root="/CourseSolrTest"
+  j2ee-spec="5.0"
+  archive="CourseSolrTest.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
